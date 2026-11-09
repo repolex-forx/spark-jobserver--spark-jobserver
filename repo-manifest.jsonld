@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/spark-jobserver/spark-jobserver/commit/f58280bbe4ecfef110bdf425f5aafccfbaa1bdba",
       "git:hexsha": "f58280bbe4ecfef110bdf425f5aafccfbaa1bdba",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/spark-jobserver/spark-jobserver/commit/7d40ff1bd2e9e702647ffe748283efb3ee2197c7",
